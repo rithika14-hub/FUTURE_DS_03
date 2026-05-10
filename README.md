@@ -32,6 +32,10 @@ This project focuses on analyzing customer conversion behavior and marketing cam
 - Funnel Chart Visualization
 - Interactive Slicers
 
+## Dashboard Preview
+
+![Dashboard](Image/funnel_dashboard.png)
+
 ## Key Insights
 - Majority of customers did not convert
 - Cellular contact showed better conversion rates
